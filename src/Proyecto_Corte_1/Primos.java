@@ -7,7 +7,7 @@ public class Primos {
 		System.out.println("el numero  " + n + " es primo ? " + primos(n, n-1));
 	}
 	
-	static int n=7;
+	static int n=358;
 	static int tmp= n-1;
 	
  public static boolean primos (int n, int tmp) {

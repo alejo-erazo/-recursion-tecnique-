@@ -6,9 +6,9 @@ public class Palindromo {
 		
 		
 		 
-		 int numeros[]= {1, 0, 1};
+		 int numeros[]= {1, 6,  0 , 3, 0, 1};
 		 int inicio= 0;
-		 int capacidad=2;
+		 int capacidad=4;
 		 esPalindromo(numeros, inicio, capacidad);
 		
 		System.out.println("¿la matriz dada es contiene un valor palindromo? " + '\n' 

@@ -3,7 +3,7 @@ package Proyecto_Corte_1;
 public class Cifras {
 
 	public static void main(String[] args) {
-		 int numero=1;
+		 int numero=186754;
 		  int contador=0;
 		 
 		
